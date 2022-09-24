@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.113183908)
+
+newmtl Bench_A_WoodOrange
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Bench_A_SteelRoughGray
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Bench_A_SteelPaintBlackA
+kd 0.8 0.8 0.8
+illum 1
+
