@@ -19,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Phone_PropAtlas
     second: {fileID: 2100000, guid: 623ee44bc442e1745bc95c929e1468b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phone_SteelPaintBlackA
+    second: {fileID: 2100000, guid: b3a41ce06c6a5c744859e815ffdf7c56, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
