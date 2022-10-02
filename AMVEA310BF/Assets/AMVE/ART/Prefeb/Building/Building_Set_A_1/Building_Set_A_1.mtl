@@ -1,0 +1,19 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.113183908)
+
+newmtl Building_Set_A_1
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_A_1_Window
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_A_1_Glass
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_A_1_Door
+kd 0.8 0.8 0.8
+illum 1
+
