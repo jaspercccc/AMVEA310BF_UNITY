@@ -3,7 +3,12 @@ guid: 958c2aec0741ad94f8dd4076a52ec9db
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conduit_C
+    second: {fileID: 2100000, guid: 18330cd1ddb3b8443993ed6eabb305ee, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
