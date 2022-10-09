@@ -3,7 +3,12 @@ guid: f36799080d7723244b5dbfe69a637c69
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RooftopTool_B
+    second: {fileID: 2100000, guid: be4d9c940e99d344c94ae372f52adc5d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

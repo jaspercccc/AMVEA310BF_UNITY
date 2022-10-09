@@ -3,7 +3,52 @@ guid: 837a824af8bc665468d15f3931c67740
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadSignB.002Mat
+    second: {fileID: 2100000, guid: 9bd0a2c14d9f0c740aaa800ce716a0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadSignBMat
+    second: {fileID: 2100000, guid: 9bd0a2c14d9f0c740aaa800ce716a0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_BoxMat
+    second: {fileID: 2100000, guid: e77c108e48fcfdc409f1fa94d45761f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_CurveMat
+    second: {fileID: 2100000, guid: 0996ed485470b6942997bf3448584d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_Light_RoadblockTrailer_LightMat
+    second: {fileID: 2100000, guid: b1d7c4ca2892fdd449703d8a9b386eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_MainMat
+    second: {fileID: 2100000, guid: 1b1de1cb677a8aa488cbcae532b37769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_RoalMat
+    second: {fileID: 2100000, guid: 1b1de1cb677a8aa488cbcae532b37769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_RoalMetalMat
+    second: {fileID: 2100000, guid: 5b48a67921fe5ef499ffcbb437a43e16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadblockTrailer_Top_RoadblockTrailer_TopMat
+    second: {fileID: 2100000, guid: f2c48554aab9647449cf43cf10150cb0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

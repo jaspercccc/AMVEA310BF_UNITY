@@ -3,7 +3,12 @@ guid: 00087e31469670f4487af96a3f7abd21
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air Conditioner_C
+    second: {fileID: 2100000, guid: 6a85ce69bfb2a8a46a8d7079b115475b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

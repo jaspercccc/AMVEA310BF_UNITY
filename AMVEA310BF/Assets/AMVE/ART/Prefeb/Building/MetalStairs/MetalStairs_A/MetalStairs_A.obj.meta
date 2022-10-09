@@ -3,7 +3,12 @@ guid: 6a6c8e92609d86f48bfb999a7fe635ce
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalStairs_A
+    second: {fileID: 2100000, guid: 136ee6ef4518b8c4c85ae2637d30f6ac, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

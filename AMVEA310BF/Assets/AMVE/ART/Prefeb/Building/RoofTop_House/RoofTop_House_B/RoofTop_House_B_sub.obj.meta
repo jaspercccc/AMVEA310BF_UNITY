@@ -3,7 +3,27 @@ guid: c4f446ed1de9d634fa8d42018e434d49
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTop_House_B
+    second: {fileID: 2100000, guid: afda546569de7704d89d034a3f08a659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTop_House_B_Door
+    second: {fileID: 2100000, guid: f10904e1aca87684aa988f9b2fb84ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTop_House_B_Glass
+    second: {fileID: 2100000, guid: de0718d2c592fdb408d3461ac1a413e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTop_House_B_Rooftoop
+    second: {fileID: 2100000, guid: 5e2cc03083b3ef74fa518a842ddf432e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

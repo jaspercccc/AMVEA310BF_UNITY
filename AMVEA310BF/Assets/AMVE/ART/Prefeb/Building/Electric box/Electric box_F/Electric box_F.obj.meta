@@ -3,7 +3,12 @@ guid: 2c379a8d3f1b8fb4c9916f7f5a14cfe8
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric_box_FMat
+    second: {fileID: 2100000, guid: d137f247f12717145a607802103cef00, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

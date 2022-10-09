@@ -3,7 +3,12 @@ guid: 432d9465869278d4e93834243c975437
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_A_Railing
+    second: {fileID: 2100000, guid: 7b6fe9074177aa04ab46dcc0ce8639fb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

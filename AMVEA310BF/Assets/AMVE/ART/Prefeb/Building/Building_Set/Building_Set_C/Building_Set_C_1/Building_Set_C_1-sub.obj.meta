@@ -3,7 +3,27 @@ guid: 3c37abc6137ccd94faf7ed624166a159
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_1
+    second: {fileID: 2100000, guid: bbdb0a0beac7d9644bc00d1b09ad222c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_1_Door
+    second: {fileID: 2100000, guid: a52d6f498676c4b43a189cb7f92e7297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_1_Glass
+    second: {fileID: 2100000, guid: 2f8b0bd83b7eaa147adb6545a845cb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_1_Window
+    second: {fileID: 2100000, guid: 2c5476263e71ba1439c8ed6d19865d9a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

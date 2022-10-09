@@ -3,7 +3,17 @@ guid: bd8d66339240df74981c08a0f3993142
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_B_Cover
+    second: {fileID: 2100000, guid: ae7b2e85bdc9ebc44bfe705323818db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_B_CoverMat
+    second: {fileID: 2100000, guid: ae7b2e85bdc9ebc44bfe705323818db0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

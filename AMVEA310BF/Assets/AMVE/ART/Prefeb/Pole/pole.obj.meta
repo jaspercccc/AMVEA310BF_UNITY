@@ -3,7 +3,17 @@ guid: a93d5f881a6cb744198942f5e0e6679b
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pole_C_MainMat
+    second: {fileID: 2100000, guid: f40f0c1057b0653428403860a912fd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pole_C_Main_SteelMat
+    second: {fileID: 2100000, guid: 78d6e5bb3c70c7b4489e5bd86caeb2be, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

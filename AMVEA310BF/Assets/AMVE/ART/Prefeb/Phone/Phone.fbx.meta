@@ -8,22 +8,37 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Phone_MetalPaintBG
-    second: {fileID: 2100000, guid: 0155261a83d457e4aae643d6c586d279, type: 2}
+    second: {fileID: 2100000, guid: b155be4267a46f7489ccdf9362fbc5d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Phone_PlasticBWY
-    second: {fileID: 2100000, guid: de7d4facc56b59b4dac0d108712166d6, type: 2}
+    second: {fileID: 2100000, guid: d753192ab52a735439a6521ecbbcd2f7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Phone_PropAtlas
-    second: {fileID: 2100000, guid: 623ee44bc442e1745bc95c929e1468b1, type: 2}
+    second: {fileID: 2100000, guid: 1a90db871e7fd8848baa328f51013070, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Phone_SteelPaintBlackA
-    second: {fileID: 2100000, guid: b3a41ce06c6a5c744859e815ffdf7c56, type: 2}
+    second: {fileID: 2100000, guid: 96fe5d3ec3cbc324f8d0882208e27416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phone_SteelRoughBlackT
+    second: {fileID: 2100000, guid: c611bb87816ab0142b672f6e396c8bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phone_SteelRoughGray
+    second: {fileID: 2100000, guid: 22a61d04598e51f4da883ada1d2c76d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phone_SteelSatin
+    second: {fileID: 2100000, guid: 5213f8a3b0d9c9c40a2ce4c86080cf3b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

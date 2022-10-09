@@ -3,7 +3,42 @@ guid: a86dc404a48e743439f4cbb1328a2f89
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroEntranceAMat
+    second: {fileID: 2100000, guid: bd9c89f046754c74d875ce33a79babb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroEntranceBMat
+    second: {fileID: 2100000, guid: 1a6e8f2c631041f4abf9e53ef8dba163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroEntranceCMat
+    second: {fileID: 2100000, guid: 326b7aa75f3394a4ea011ba376837c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroEntranceDMat
+    second: {fileID: 2100000, guid: d1928e29b5a461c46a9b8570dd4e76ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroEntranceEMat
+    second: {fileID: 2100000, guid: 27590a1170ea51e49b34c6c7a5387cb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroEntranceFMat
+    second: {fileID: 2100000, guid: 581e20175b9c5e04a850b7a1c9789ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subway_MetroWallAMat
+    second: {fileID: 2100000, guid: c8ae3f655b50f7747a8773d7c9230748, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

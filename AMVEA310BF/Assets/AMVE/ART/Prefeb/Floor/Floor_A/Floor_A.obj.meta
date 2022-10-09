@@ -3,7 +3,27 @@ guid: 00a4a7e0f803a0944a9893c589084aa2
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_A_Sidewalk_A_Main_1Mat
+    second: {fileID: 2100000, guid: a35113398b3cf06489975cae5d995874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_A_Sidewalk_A_Main_2Mat
+    second: {fileID: 2100000, guid: c7514840f26067d418edc4db77f45bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_A_Sidewalk_A_Main_3Mat
+    second: {fileID: 2100000, guid: 579e9f30d846dd64ba7cd0f38fe1f440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_A_Sidewalk_A_Main_4Mat
+    second: {fileID: 2100000, guid: 5d562eaa6c99dcf44bbb2e1345e2660d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,27 @@ guid: 83642240594e42f43bd48c0b347fc63a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireHydrant_A_Main_1Mat
+    second: {fileID: 2100000, guid: 0e5f821a1b3ec094e87bb1ca09dbf3af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireHydrant_A_Main_2Mat
+    second: {fileID: 2100000, guid: 856f8e1fbb993884a96d1e467c8e96ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireHydrant_A_Main_3Mat
+    second: {fileID: 2100000, guid: 856f8e1fbb993884a96d1e467c8e96ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireHydrant_A_Main_4Mat
+    second: {fileID: 2100000, guid: 5e66c824cb805c2489e56513b45ce11f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

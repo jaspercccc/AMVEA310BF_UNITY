@@ -3,7 +3,12 @@ guid: 55c62bfbbf16ce3449f0ff1792360da8
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_B_Corner
+    second: {fileID: 2100000, guid: c66def6c9103df047adc9cee9409df03, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

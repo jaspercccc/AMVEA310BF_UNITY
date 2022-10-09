@@ -3,7 +3,27 @@ guid: 4dcff5e592a417841898f732b1da28bb
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_D
+    second: {fileID: 2100000, guid: f57d2d73ffd419c488ee423c922e3e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_D_MetalPaintGrayA
+    second: {fileID: 2100000, guid: 940c747ea033aa246897c2a94a00730a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_D_PropAtlas
+    second: {fileID: 2100000, guid: 307b77898d4a8dd41833d1c2de3a5c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_D_SteelRoughGray
+    second: {fileID: 2100000, guid: b67206ef88d992a4fbe30d65ff896be5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
