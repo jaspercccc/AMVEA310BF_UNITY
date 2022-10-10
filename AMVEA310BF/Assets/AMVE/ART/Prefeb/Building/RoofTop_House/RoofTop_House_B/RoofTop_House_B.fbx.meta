@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 18e76c118b7be7d488772ce28fd06411
+guid: 513743e3ee05f1448a01567869a7422a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,43 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_ConcreteGrey
-    second: {fileID: 2100000, guid: 7163448ad447b61489cfe9fca839f23d, type: 2}
+      name: RoofTop_House_B
+    second: {fileID: 2100000, guid: afda546569de7704d89d034a3f08a659, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_Door
-    second: {fileID: 2100000, guid: 6a38d1a0d0d4dfe47bcf1c22ee47c45c, type: 2}
+      name: RoofTop_House_B_Door
+    second: {fileID: 2100000, guid: f10904e1aca87684aa988f9b2fb84ecd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_Glass
-    second: {fileID: 2100000, guid: ac45c69e46b0a2e4d8a2500e5ee465b1, type: 2}
+      name: RoofTop_House_B_Glass
+    second: {fileID: 2100000, guid: de0718d2c592fdb408d3461ac1a413e9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_LeavesBush
-    second: {fileID: 2100000, guid: 6e6a7da31882ce948b41395455e63017, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_MetalPaintedBlack
-    second: {fileID: 2100000, guid: c9025fac6a2aaf34fbc72a9a05054f61, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_Roof
-    second: {fileID: 2100000, guid: 50033476e9f021b47a779200f02c4708, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_Wall
-    second: {fileID: 2100000, guid: 7400d20dcf70d874a9e338a9abd0077a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Building_Set_C_2_Window
-    second: {fileID: 2100000, guid: 2adf7f95deb818e43a38f7d601fc8c91, type: 2}
+      name: RoofTop_House_B_Rooftoop
+    second: {fileID: 2100000, guid: 5e2cc03083b3ef74fa518a842ddf432e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

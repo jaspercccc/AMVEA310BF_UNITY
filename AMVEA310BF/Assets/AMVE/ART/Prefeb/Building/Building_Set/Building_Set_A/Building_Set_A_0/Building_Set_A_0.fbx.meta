@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 13b266a7ca51714419d5a414922fc98f
+guid: 08e81116b7401c54fa0237bb28622960
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,8 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Building_S_A_Building_S_AMat
+      name: Building_S_A_Metal
+    second: {fileID: 2100000, guid: 2d1d2e18126ce7b40a57db950f99156f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_S_A_Wall
     second: {fileID: 2100000, guid: 67beb2f179dea4f42b0c9585359e6a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_S_A_Window
+    second: {fileID: 2100000, guid: b19efc1de8ef2134a84ea31638cfdd97, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
