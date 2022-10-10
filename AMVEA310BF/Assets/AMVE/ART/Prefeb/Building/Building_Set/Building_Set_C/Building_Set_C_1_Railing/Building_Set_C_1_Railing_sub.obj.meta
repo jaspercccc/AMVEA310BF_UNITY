@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Building_Set_D_Railing
     second: {fileID: 2100000, guid: 231b4dda3400f2d4abe6f36f0ef1d32c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_D_RailingMat
+    second: {fileID: 2100000, guid: 231b4dda3400f2d4abe6f36f0ef1d32c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: RooftopTool_A
     second: {fileID: 2100000, guid: e79462cd646cabc4f8fb5155a600eeea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RooftopTool_AMat
+    second: {fileID: 2100000, guid: e79462cd646cabc4f8fb5155a600eeea, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
