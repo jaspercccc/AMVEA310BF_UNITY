@@ -1,0 +1,35 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.6393133)
+
+newmtl Building_Set_C_4_Wall
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_Railing
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_Roof
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_Glass
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_MetalAluminum
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_MetalPaintedBlack
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_Name
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_4_Metal
+kd 0.8 0.8 0.8
+illum 1
+
