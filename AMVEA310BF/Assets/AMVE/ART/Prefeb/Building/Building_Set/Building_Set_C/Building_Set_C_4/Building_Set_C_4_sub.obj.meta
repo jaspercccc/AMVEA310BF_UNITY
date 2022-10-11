@@ -3,7 +3,47 @@ guid: e2e1db08068a9bc4193c9ef4ab6a41c9
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_Glass
+    second: {fileID: 2100000, guid: 28914140c9fe5954a868e89fbe7aa628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_Metal
+    second: {fileID: 2100000, guid: c3a8a7ead16931b43a797e859d505c76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_MetalAluminum
+    second: {fileID: 2100000, guid: ceba2cf349127e5449f41cc1c7273f59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_MetalPaintedBlack
+    second: {fileID: 2100000, guid: 21f195cf035fca649bc91b3cac94fb94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_Name
+    second: {fileID: 2100000, guid: d653e0ac78c98a54888a761d02a59f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_Railing
+    second: {fileID: 2100000, guid: 8c1b235272f4f4b4b833d114ed0965c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_Roof
+    second: {fileID: 2100000, guid: 47def70f6c867824e8c9dfafe29035a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_4_Wall
+    second: {fileID: 2100000, guid: b2410429bc0a3ec44bf70551eef13a6d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

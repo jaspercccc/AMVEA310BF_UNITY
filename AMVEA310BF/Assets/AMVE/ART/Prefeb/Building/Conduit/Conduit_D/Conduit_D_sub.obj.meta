@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Conduit_D
     second: {fileID: 2100000, guid: 35b77b3a4d445c54399dff94e12f3f71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conduit_DMat
+    second: {fileID: 2100000, guid: 35b77b3a4d445c54399dff94e12f3f71, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

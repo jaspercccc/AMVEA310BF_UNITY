@@ -3,7 +3,52 @@ guid: 616059c85ac218c4780ce6ffc40a6092
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_ConcreteGrey
+    second: {fileID: 2100000, guid: a77188eeaac1e144cb9d22372b06e0ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_Glass
+    second: {fileID: 2100000, guid: 157bd1ab5c2c34346ac46096103759ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_LeavesBush
+    second: {fileID: 2100000, guid: e107e58e633614740851997b2190abdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_MetalPaintedBlack
+    second: {fileID: 2100000, guid: 9ab5c9e46185bf743b3a98c90be7625b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_Railing
+    second: {fileID: 2100000, guid: 0efc47ec33aeddc4b95131e5222e4a8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_Roof
+    second: {fileID: 2100000, guid: 8831c8769640fcb4d80ae30f3a888a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_Wall
+    second: {fileID: 2100000, guid: 98aa7193b4552a04598e6cad8241c612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_Window
+    second: {fileID: 2100000, guid: f5d290e6d9083cf488f721b7d44f47fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Set_C_3_Window2
+    second: {fileID: 2100000, guid: b6d3dccdbdb94be44a1d3f484cad9055, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

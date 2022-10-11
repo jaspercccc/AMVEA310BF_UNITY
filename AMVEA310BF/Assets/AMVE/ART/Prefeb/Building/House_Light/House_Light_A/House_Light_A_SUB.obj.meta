@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: House_Light_A
     second: {fileID: 2100000, guid: dfc1ef05faf236f4eacc972b76580507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Light_AMat
+    second: {fileID: 2100000, guid: dfc1ef05faf236f4eacc972b76580507, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

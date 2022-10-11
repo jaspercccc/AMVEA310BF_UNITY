@@ -3,7 +3,17 @@ guid: d0e383eee79ba764eb860f18a1fd731a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_A_Sidewalk_A_Tool_02
+    second: {fileID: 2100000, guid: 73ea434830d3c3240876050ca310efa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_A_Sidewalk_A_Tool_02_01
+    second: {fileID: 2100000, guid: 2f1ff2f7da0ad824fa787c3e891401e0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
