@@ -1,0 +1,39 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.6393133)
+
+newmtl Building_Set_C_3_Railing
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_Roof
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_Glass
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_LeavesBush
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_MetalPaintedBlack
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_Window
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_Wall
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_Window2
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Building_Set_C_3_ConcreteGrey
+kd 0.8 0.8 0.8
+illum 1
+
