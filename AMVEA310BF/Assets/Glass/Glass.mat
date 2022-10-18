@@ -8,20 +8,18 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Glass
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ValidKeywords:
+  m_Shader: {fileID: -6465566751694194690, guid: aaf6716ccfe3a5d42bce72be0886ec13,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - _ALPHAPREMULTIPLY_ON
   - _SURFACE_TYPE_TRANSPARENT
-  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
-  stringTagMap:
-    RenderType: Transparent
-  disabledShaderPasses:
-  - DepthOnly
-  - SHADOWCASTER
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -83,6 +81,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_18854F8C: 0.547
+    - Vector1_28BC39B5: 0.206
+    - Vector1_40385CE1: 10
+    - Vector1_48BDE471: 0
+    - Vector1_66425DE2: 0.585
+    - Vector1_7C2E78E4: 0.752
+    - Vector1_A0DB3845: 0.873
+    - Vector1_F1294C90: 0
     - _AlphaClip: 0
     - _Blend: 1
     - _BumpScale: 1
@@ -97,25 +103,40 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 1
     - _GlossyReflections: 1
+    - _Inner_Rim_Power: 14.57
+    - _Inner_Rim_Smoothness: 3.77
+    - _LightSpaceCutOff: 0.64
+    - _LightSpeedCutOffSmoothness: 0.435
     - _Metallic: 0
     - _Mode: 3
     - _OcclusionStrength: 1
+    - _Outer_Rim_Smoothness: 1.26
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Rimpower: 14.61
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 1
     - _UVSec: 0
+    - _ViewSpecCutOff: 0.326
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
+    - Color_9B881ED6: {r: 0.4009433, g: 0.7435868, b: 1, a: 1}
+    - Color_BED8F987: {r: 0.13333318, g: 0.972549, b: 0.7837852, a: 0.5803922}
+    - Color_CA4EAD0D: {r: 1, g: 1, b: 1, a: 1}
+    - Color_E9CFA916: {r: 0.6556604, g: 0.9634122, b: 1, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 0.63834995, g: 0.866373, b: 0.8962264, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Inner_Glow_Color: {r: 0.8301887, g: 0.38768235, b: 0.38768235, a: 1}
+    - _Outer_Rim_Color: {r: 0.7701923, g: 0.8962264, b: 0.7144446, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _Specular_Color: {r: 0.33922207, g: 0.7264151, b: 0.72241867, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &5919994853316690544
 MonoBehaviour:
